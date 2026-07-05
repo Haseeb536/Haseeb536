@@ -120,10 +120,25 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseeb536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb536&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/Haseeb536)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb536&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8)](https://github.com/Haseeb536)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haseeb536&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=0099CC&currStreakLabel=00D4FF&sideLabels=7dd3fc&dates=4a5568&stroke=1a2332&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> contribution.snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haseeb536/Haseeb536/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haseeb536/Haseeb536/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Haseeb536/Haseeb536/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -171,16 +186,6 @@ current = {
     "goal_2026" : "Contribute to open-source backend systems at scale",
 }
 ```
-
----
-
-## `> activity.graph`
-
-<div align="center">
-
-[![Muhammad Haseeb Ramzan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haseeb536&bg_color=0d1117&color=00D4FF&line=0099CC&point=ffffff&area=true&area_color=001a26&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
