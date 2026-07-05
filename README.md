@@ -1,12 +1,23 @@
 <div align="center">
 
 ```
- ██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗ 
- ██║  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
- ███████║███████║███████╗█████╗  █████╗  ██████╔╝
- ██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗
- ██║  ██║██║  ██║███████║███████╗███████╗██████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝ 
+    __  ___      __                                        __
+   /  |/  /_  __/ /_  ____ _____ ___  ____ ___  ____ _____/ /
+  / /|_/ / / / / __ \/ __ `/ __ `__ \/ __ `__ \/ __ `/ __  /
+ / /  / / /_/ / / / / /_/ / / / / / / / / / / / /_/ / /_/ /
+/_/  /_/\__,_/_/ /_/\__,_/_/ /_/ /_/_/ /_/ /_/\__,_/\__,_/
+
+    __  __                     __
+   / / / /___ _________  ___  / /_
+  / /_/ / __ `/ ___/ _ \/ _ \/ __ \
+ / __  / /_/ (__  )  __/  __/ /_/ /
+/_/ /_/\__,_/____/\___/\___/_.___/
+
+    ____
+   / __ \____ _____ ___  ____  ____ _____
+  / /_/ / __ `/ __ `__ \/_  / / __ `/ __ \
+ / _, _/ /_/ / / / / / / / /_/ /_/ / / / /
+/_/ |_|\__,_/_/ /_/ /_/ /___/\__,_/_/ /_/
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Python+Developer;ML+%7C+LLMs+%7C+Computer+Vision+%7C+Automation;Building+production-grade+APIs+%26+SaaS+systems+%F0%9F%9A%80;Open+to+collabs+%26+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
@@ -121,7 +132,7 @@ current = {
 
 <div align="center">
 
-[![Haseeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haseeb536&bg_color=0d1117&color=00D4FF&line=0099CC&point=ffffff&area=true&area_color=001a26&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Haseeb Ramzan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haseeb536&bg_color=0d1117&color=00D4FF&line=0099CC&point=ffffff&area=true&area_color=001a26&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -144,7 +155,7 @@ print("Let's build something that ships to production!")
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Haseeb536-0d1117?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=161b22)](https://github.com/Haseeb536)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Haseeb-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=161b22)](https://www.linkedin.com/in/muhammad-haseeb-ramzan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Haseeb_Ramzan-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=161b22)](https://www.linkedin.com/in/muhammad-haseeb-ramzan/)
 [![Email](https://img.shields.io/badge/Email-haseebramzan536@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=161b22)](mailto:haseebramzan536@gmail.com)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Haseeb536&style=for-the-badge&color=0099CC&label=PROFILE+VIEWS&labelColor=161b22)
