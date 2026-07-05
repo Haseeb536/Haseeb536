@@ -1,26 +1,24 @@
 <div align="center">
 
 ```
-    __  ___      __                                        __
-   /  |/  /_  __/ /_  ____ _____ ___  ____ ___  ____ _____/ /
-  / /|_/ / / / / __ \/ __ `/ __ `__ \/ __ `__ \/ __ `/ __  /
- / /  / / /_/ / / / / /_/ / / / / / / / / / / / /_/ / /_/ /
-/_/  /_/\__,_/_/ /_/\__,_/_/ /_/ /_/_/ /_/ /_/\__,_/\__,_/
+                                                 
+ _____ _____ _____ _____ _____ _____ _____ ____  
+|     |  |  |  |  |  _  |     |     |  _  |    \ 
+| | | |  |  |     |     | | | | | | |     |  |  |
+|_|_|_|_____|__|__|__|__|_|_|_|_|_|_|__|__|____/ 
+                                                 
 
-    __  __                     __
-   / / / /___ _________  ___  / /_
-  / /_/ / __ `/ ___/ _ \/ _ \/ __ \
- / __  / /_/ (__  )  __/  __/ /_/ /
-/_/ /_/\__,_/____/\___/\___/_.___/
-
-    ____
-   / __ \____ _____ ___  ____  ____ _____
-  / /_/ / __ `/ __ `__ \/_  / / __ `/ __ \
- / _, _/ /_/ / / / / / / / /_/ /_/ / / / /
-/_/ |_|\__,_/_/ /_/ /_/ /___/\__,_/_/ /_/
+                                                                            
+ _____ _____ _____ _____ _____ _____    _____ _____ _____ _____ _____ _____ 
+|  |  |  _  |   __|   __|   __| __  |  | __  |  _  |     |__   |  _  |   | |
+|     |     |__   |   __|   __| __ -|  |    -|     | | | |   __|     | | | |
+|__|__|__|__|_____|_____|_____|_____|  |__|__|__|__|_|_|_|_____|__|__|_|___|
+                                                                            
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Python+Developer;ML+%7C+LLMs+%7C+Computer+Vision+%7C+Automation;Building+production-grade+APIs+%26+SaaS+systems+%F0%9F%9A%80;Open+to+collabs+%26+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+### Muhammad Haseeb Ramzan
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Muhammad+Haseeb+Ramzan;AI+Engineer+%26+Python+Developer;ML+%7C+LLMs+%7C+Computer+Vision+%7C+Automation;Building+production-grade+APIs+%26+SaaS+systems+%F0%9F%9A%80;Open+to+collabs+%26+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
