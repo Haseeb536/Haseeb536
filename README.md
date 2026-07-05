@@ -1,22 +1,6 @@
 <div align="center">
 
-```
-                                                 
- _____ _____ _____ _____ _____ _____ _____ ____  
-|     |  |  |  |  |  _  |     |     |  _  |    \ 
-| | | |  |  |     |     | | | | | | |     |  |  |
-|_|_|_|_____|__|__|__|__|_|_|_|_|_|_|__|__|____/ 
-                                                 
-
-                                                                            
- _____ _____ _____ _____ _____ _____    _____ _____ _____ _____ _____ _____ 
-|  |  |  _  |   __|   __|   __| __  |  | __  |  _  |     |__   |  _  |   | |
-|     |     |__   |   __|   __| __ -|  |    -|     | | | |   __|     | | | |
-|__|__|__|__|_____|_____|_____|_____|  |__|__|__|__|_|_|_|_____|__|__|_|___|
-                                                                            
-```
-
-### Muhammad Haseeb Ramzan
+<img src="https://raw.githubusercontent.com/Haseeb536/Haseeb536/main/assets/banner.svg" alt="Muhammad Haseeb Ramzan" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Muhammad+Haseeb+Ramzan;AI+Engineer+%26+Python+Developer;ML+%7C+LLMs+%7C+Computer+Vision+%7C+Automation;Building+production-grade+APIs+%26+SaaS+systems+%F0%9F%9A%80;Open+to+collabs+%26+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
 
