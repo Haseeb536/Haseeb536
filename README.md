@@ -24,32 +24,95 @@ visitor@github:~$ cat ./about_me.txt
 
 ## 🛠️ Tech Stack
 
-**Backend**  
-`Python` `FastAPI` `Django` `Django REST` `Flask` `Pydantic` `asyncio` `Node.js` `Express` `PHP` `REST APIs` `Webhooks`
+<div align="center">
 
-**Frontend**  
-`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `Tailwind CSS` `Bootstrap` `Flutter`
+### Backend
 
-**Data & Storage**  
-`PostgreSQL` `MongoDB` `MySQL` `SQLite` `Firebase` `Firestore` `Redis` `SQLAlchemy`
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-V2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI & LLM Integration**  
-`OpenAI SDK` `ChatGPT API` `TensorFlow` `scikit-learn` `OpenCV` `Computer Vision` `NLP` `Prompt Engineering` `Generative AI` `Model Deployment`
+### Frontend
 
-**Automation & Scraping**  
-`Selenium` `Appium` `Requests` `BeautifulSoup` `Proxy Rotation` `CAPTCHA Handling` `RPA` `Web Scraping` `Tkinter`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Real-time & Communication**  
-`WebSocket` `SSE` `Telegram API` `discord.py` `Webhooks` `Background Workers`
+### Data & Storage
 
-**Auth & Security**  
-`JWT` `Firebase Auth` `OAuth` `Role-based Access` `Input Validation` `TLS`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Cloud & DevOps**  
-`Microsoft Azure` `AWS` `Firebase` `Docker` `Linux` `GitHub Actions` `CI/CD` `systemd` `VM Hardening`
+### AI & LLM Integration
 
-**E-commerce & Integrations**  
-`WooCommerce` `Shopify` `WordPress` `Bulk Product Sync` `Localization APIs` `Payment Workflows`
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=googlebard&logoColor=white)
+
+### Automation & Scraping
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF5722?style=for-the-badge&logo=internetarchive&logoColor=white)
+![Proxy Rotation](https://img.shields.io/badge/Proxy_Rotation-607D8B?style=for-the-badge&logo=nginx&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-009688?style=for-the-badge&logo=robotframework&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
+
+### Real-time & Communication
+
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-6B7280?style=for-the-badge&logo=serverless&logoColor=white)
+![Discord](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge&logo=webhook&logoColor=white)
+
+### Auth & Security
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TLS](https://img.shields.io/badge/TLS-4CAF50?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### E-commerce & Integrations
+
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woo&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=swagger&logoColor=white)
+
+</div>
 
 ---
 
