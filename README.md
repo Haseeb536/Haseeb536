@@ -22,33 +22,34 @@ visitor@github:~$ cat ./about_me.txt
 
 ---
 
-## `> tech.stack`
+## 🛠️ Tech Stack
 
-**Languages**
+**Backend**  
+`Python` `FastAPI` `Django` `Django REST` `Flask` `Pydantic` `asyncio` `Node.js` `Express` `PHP` `REST APIs` `Webhooks`
 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+**Frontend**  
+`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `Tailwind CSS` `Bootstrap` `Flutter`
 
-**Frameworks & Tools**
+**Data & Storage**  
+`PostgreSQL` `MongoDB` `MySQL` `SQLite` `Firebase` `Firestore` `Redis` `SQLAlchemy`
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+**AI & LLM Integration**  
+`OpenAI SDK` `ChatGPT API` `TensorFlow` `scikit-learn` `OpenCV` `Computer Vision` `NLP` `Prompt Engineering` `Generative AI` `Model Deployment`
+
+**Automation & Scraping**  
+`Selenium` `Appium` `Requests` `BeautifulSoup` `Proxy Rotation` `CAPTCHA Handling` `RPA` `Web Scraping` `Tkinter`
+
+**Real-time & Communication**  
+`WebSocket` `SSE` `Telegram API` `discord.py` `Webhooks` `Background Workers`
+
+**Auth & Security**  
+`JWT` `Firebase Auth` `OAuth` `Role-based Access` `Input Validation` `TLS`
+
+**Cloud & DevOps**  
+`Microsoft Azure` `AWS` `Firebase` `Docker` `Linux` `GitHub Actions` `CI/CD` `systemd` `VM Hardening`
+
+**E-commerce & Integrations**  
+`WooCommerce` `Shopify` `WordPress` `Bulk Product Sync` `Localization APIs` `Payment Workflows`
 
 ---
 
